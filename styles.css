@@ -1,0 +1,189 @@
+/* ==============================
+   GLOBAL STYLE
+   ============================== */
+
+body {
+  font-family: "Nunito", Arial, Helvetica, sans-serif;
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
+
+
+/* ==============================
+   SIDEBAR
+   ============================== */
+
+#quarto-sidebar {
+  background-color: #181818;
+}
+
+.sidebar-title {
+  color: white;
+  font-size: 1.8rem;
+  font-weight: 700;
+  margin-bottom: 1.5rem;
+}
+
+.sidebar-navigation .sidebar-item {
+  margin-bottom: 0.6rem;
+}
+
+.sidebar-navigation .sidebar-item-text {
+  color: white;
+  font-size: 1.2rem;
+  font-weight: 400;
+}
+
+.sidebar-navigation a {
+  color: white;
+  border-radius: 8px;
+  padding: 0.45rem 0.7rem;
+  transition: all 0.2s ease;
+}
+
+.sidebar-navigation .active {
+  color: white !important;
+  font-weight: 400 !important;
+}
+
+.sidebar-navigation a:hover {
+  background-color: #333333;
+  color: white;
+  transform: translateX(4px);
+}
+
+
+/* ==============================
+   PAGE LAYOUT
+   ============================== */
+
+#quarto-content {
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+
+/* ==============================
+   PAGE TITLES
+   ============================== */
+
+.quarto-title h1.title {
+  text-align: center;
+  font-size: 1.8rem;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+}
+
+
+/* ==============================
+   HEADINGS
+   ============================== */
+
+h2 {
+  font-size: 1.4rem;
+  margin-top: 2rem;
+}
+
+h3 {
+  font-size: 1.15rem;
+  margin-top: 1.5rem;
+}
+
+
+/* ==============================
+   LINKS
+   ============================== */
+
+main a {
+  text-decoration: none;
+}
+
+main a:hover {
+  text-decoration: underline;
+}
+
+
+/* ==============================
+   PDF BUTTONS
+   ============================== */
+
+a[href$=".pdf"] {
+  display: inline-block;
+  padding: 0.15rem 0.5rem;
+  margin-left: 0.3rem;
+  border: 1px solid #777;
+  border-radius: 5px;
+  font-size: 0.85rem;
+  text-decoration: none;
+}
+
+a[href$=".pdf"]:hover {
+  background-color: #eeeeee;
+  text-decoration: none;
+}
+
+
+/* ==============================
+   GENERAL BUTTONS
+   ============================== */
+
+.btn {
+  border-radius: 20px;
+  padding: 0.45rem 1rem;
+  margin-right: 0.4rem;
+  margin-bottom: 0.5rem;
+  font-size: 0.9rem;
+  font-weight: 400;
+}
+
+
+/* ==============================
+   ACADEMIC PROFILE BUTTONS
+   ============================== */
+
+.academic-profiles {
+  text-align: left !important;
+  width: 100%;
+}
+
+.academic-profiles .btn {
+  display: inline-block;
+}
+
+
+/* ==============================
+   HOMEPAGE - LEFT ALIGNMENT
+   ============================== */
+
+.quarto-about-jolla {
+  text-align: left !important;
+}
+
+.quarto-about-jolla .about-entity,
+.quarto-about-jolla .about-contents {
+  text-align: left !important;
+}
+
+.quarto-about-jolla .about-links {
+  justify-content: flex-start !important;
+}
+
+.quarto-about-jolla h1,
+.quarto-about-jolla .title {
+  text-align: left !important;
+}
+
+
+/* ==============================
+   MOBILE
+   ============================== */
+
+@media (max-width: 991px) {
+  #quarto-content {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}

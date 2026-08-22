@@ -1,0 +1,24 @@
+---
+title: "Diego Berti, PhD"
+image: images/photo2.jpg
+about:
+  template: jolla
+---
+
+## Welcome to my academic website
+
+#### I am a researcher in **Mathematical Analysis**, with particular emphasis on partial differential equations, dynamical systems, and problems arising in mathematical physics.
+
+#### I am currently a researcher at the Department of Mathematics, Università di Torino, Italy.
+
+Email: diego.berti@unito.it
+
+<div class="academic-profiles">
+
+##### Academic Profiles
+
+[Google Scholar](YOUR-GOOGLE-SCHOLAR-PROFILE){.btn .btn-outline-dark target="_blank"}
+[Scopus](https://www.scopus.com/authid/detail.uri?authorId=57695990000){.btn .btn-outline-dark target="_blank"}
+[ResearchGate](https://www.researchgate.net/profile/Diego-Berti){.btn .btn-outline-dark target="_blank"}
+
+</div>

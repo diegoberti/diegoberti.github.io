@@ -1,0 +1,27 @@
+---
+title: "Research Interests"
+---
+
+My research interests lie broadly in **Mathematical Analysis**, with particular emphasis on partial differential equations, dynamical systems, and problems arising in mathematical physics.
+
+## Celestial Mechanics and the N-body Problem
+
+I am interested in analytical and variational aspects of the **N-body problem**, including Hamilton–Jacobi equations, regularity properties, expansive solutions, and the behavior of solutions at infinity.
+
+## Nonlinear Partial Differential Equations
+
+My research includes the qualitative analysis of nonlinear PDEs, with particular interest in:
+
+- Hamilton–Jacobi equations
+- Parabolic equations
+- Diffusion–convection–reaction equations
+- Degenerate and sign-changing diffusion
+- Traveling waves and wavefronts
+
+## Asymptotic Analysis
+
+I study asymptotic properties of solutions to elliptic and parabolic equations, including short-time behavior and problems related to the game-theoretic \(p\)-Laplacian and Pucci operators.
+
+## Fluid Dynamics and Mathematical Models
+
+I have also worked on PDE models arising in fluid dynamics and mathematical physics, including tropical climate models and the dynamics of complex bodies.

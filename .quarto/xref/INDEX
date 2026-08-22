@@ -1,0 +1,26 @@
+{
+  "about.qmd": {
+    "about.html": "0e26cf24"
+  },
+  "index.qmd": {
+    "index.html": "98dd10a0"
+  },
+  "Publications.qmd": {
+    "Publications.html": "933dfb0e"
+  },
+  "publications.qmd": {
+    "publications.html": "213a1611"
+  },
+  "research.qmd": {
+    "research.html": "787488a1"
+  },
+  "short CV.qmd": {
+    "short CV.html": "b5690932"
+  },
+  "teaching.qmd": {
+    "teaching.html": "3f3a41b5"
+  },
+  "talks&seminars.qmd": {
+    "talks&seminars.html": "59c42568"
+  }
+}

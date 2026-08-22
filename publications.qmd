@@ -1,0 +1,100 @@
+---
+title: "Publications and Preprints"
+---
+
+### Preprints
+
+1. Short-time behavior and invariant surfaces for caloric functions with non-constant boundary values,    
+   D. Berti, R. Magnanini, M. Marini, preprint, 2026,
+   [arXiv:2607.18784](https://arxiv.org/abs/2607.18784)
+
+2. Expansive solutions and the boundary at infinity for the homogeneous N-body problem,   
+   D. Berti, D. Polimeni, S. Terracini, preprint, 2026,
+   [arXiv:2604.14948](https://arxiv.org/abs/2604.14948)
+
+3. Shock wavefronts for parabolic equations with sign-changing diffusivity,  
+   D. Berti, A. Corli, L. Malaguti, preprint, 2026,
+   [arXiv:2604.19595](https://arxiv.org/abs/2604.19595)
+
+### Journal Articles
+
+4. [On the regularity of solutions to the Hamilton-Jacobi equations for the N-body problem](https://doi.org/10.1007/s00205-026-02227-y){target="_blank"},  
+   D. Berti, D. Polimeni, S. Terracini,
+   *Archive for Rational Mechanics and Analysis* 250, Article 75 (2026). 
+
+5. [Global well-posedness and energy decay for hypodissipative 3D Tropical Climate Models with damping](https://doi.org/10.1098/rspa.2025.1012){target="_blank"},   
+   D. Berti, L. Bisconti, D. Catania,
+   *Proceedings of the Royal Society A* 482(2336), Article 20251012 (2026).
+
+6. [Symmetric solutions of the n-body problem: a numerical study of Floquet multipliers and Morse indices](https://doi.org/10.1016/j.ascom.2026.101085){target="_blank"},  
+   D. Berti, G. Canneori, R. Ciccarelli, I. De Blasi, M. Introna, D. Polimeni,
+   *Astronomy and Computing* 55, Article 101085 (2026). 
+
+7. [New bounds on the high Sobolev norms of the 1d NLS solutions](https://doi.org/10.1016/j.jde.2025.02.073){target="_blank"},  
+   D. Berti, F. Planchon, N. Tzvetkov, N. Visciglia,
+   *Journal of Differential Equations* 430, Article 113202 (2025). 
+
+8. [Remark on a blow-up criterion for the 3D Viscous Tropical Climate Model in the BMO space](https://doi.org/10.1093/imamat/hxaf024){target="_blank"},  
+   D. Berti, L. Bisconti, D. Catania,
+   *IMA Journal of Applied Mathematics* 90(4), 426–441 (2025). 
+
+9. [The role of convection in the existence of wavefronts for biased movements](https://doi.org/10.1002/mma.9667){target="_blank"},  
+   D. Berti, A. Corli, L. Malaguti,
+   *Mathematical Methods in the Applied Sciences* 47, 491–515 (2024). 
+
+10. [Energy decay in the dynamics of complex bodies with spreading microstructures represented by 3D vectors](https://doi.org/10.1007/s10659-022-09921-4){target="_blank"},  
+    D. Berti, L. Bisconti, P. M. Mariano,
+    *Journal of Elasticity* 155, 133–157 (2024). 
+
+11. [Dynamics of complex bodies with memory and vector-valued microstructure: existence and uniqueness](https://doi.org/10.1016/j.physd.2023.133683){target="_blank"},  
+    D. Berti, L. Bisconti, P. M. Mariano,
+    *Physica D* 446, Article 133683 (2023). 
+
+12. [Global attractor for the three-dimensional Bardina Tropical Climate Model](https://doi.org/10.1080/00036811.2023.2166494){target="_blank"},  
+   D. Berti, L. Bisconti, D. Catania, 
+   *Applicable Analysis* 102(18), 5123–5131 (2023). 
+
+13. [A regularity criterion for a 3D tropical climate model with damping](https://doi.org/10.1016/j.jmaa.2022.126685){target="_blank"},  
+    D. Berti, L. Bisconti, D. Catania,
+    *Journal of Mathematical Analysis and Applications* 518(1), Article 126685 (2023). 
+
+
+14. [Diffusion–convection reaction equations with sign-changing diffusivity and bistable reaction term](https://doi.org/10.1016/j.nonrwa.2022.103579){target="_blank"},     
+    D. Berti, A. Corli, L. Malaguti,
+    *Nonlinear Analysis: Real World Applications*, Article 103579 (2022).
+
+15. [Small diffusion and short-time asymptotics for Pucci operators](https://doi.org/10.1080/00036811.2020.1750602){target="_blank"},  
+    D. Berti, R. Magnanini,
+    *Applicable Analysis* 101(10), 3716–3732 (2022).
+
+16. [Wavefronts for degenerate diffusion-convection reaction equations with sign-changing diffusivity](https://doi.org/10.3934/dcds.2021105){target="_blank"},   
+    D. Berti, A. Corli, L. Malaguti,
+    *Discrete and Continuous Dynamical Systems* 41(12), 6023–6046 (2021). 
+
+
+17. [Uniqueness and nonuniqueness of fronts for degenerate diffusion-convection-reaction equations](https://doi.org/10.14232/ejqtde.2020.1.66){target="_blank"},    
+    D. Berti, A. Corli, L. Malaguti,
+    *Electronic Journal of Qualitative Theory of Differential Equations* 66, 1–34 (2020). 
+
+
+18. [Asymptotics for the resolvent equation associated to the game-theoretic p-laplacian](https://doi.org/10.1080/00036811.2018.1466283){target="_blank"},   
+    D. Berti, R. Magnanini,
+    *Applicable Analysis* 98, 1827–1842 (2019). 
+
+19. [Short-time behaviour for game-theoretic p-caloric functions](https://doi.org/10.1016/j.matpur.2018.06.020){target="_blank"},   
+    D. Berti, R. Magnanini,
+    *Journal de Mathématiques Pures et Appliquées* 126, 249–272 (2019). 
+
+### Proceedings
+
+* Recent results on traveling waves under sign-changing diffusivity,   
+   D. Berti, A. Corli, L. Malaguti,
+   To appear in *Differential Equations and Nonlinear Models*, Springer-INdAM Volume.
+
+* [Wavefronts in forward-backward parabolic equations and applications to biased movements](https://doi.org/10.1007/978-3-031-36375-7_2){target="_blank"},   
+   D. Berti, A. Corli, L. Malaguti,
+   In *Analysis, Applications, and Computations*, Trends in Mathematics, Birkhäuser (2023). 
+
+* [Short-Time Asymptotics for Game-Theoretic p-Laplacian and Pucci Operators](https://doi.org/10.1007/978-3-030-87502-2_42){target="_blank"},   
+   D. Berti,
+   In *Current Trends in Analysis, its Applications and Computation*, Trends in Mathematics, Birkhäuser (2022). 

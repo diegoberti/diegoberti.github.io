@@ -1,0 +1,29 @@
+project:
+  type: website
+  resources:
+    - slides/**
+
+website:
+  title: "Diego Berti"
+  sidebar:
+    style: "docked"
+    search: false
+    contents:
+      - href: index.qmd
+        text: Home
+      - href: publications.qmd
+        text: Publications  
+      - href: short CV.qmd
+        text: Academic Bio
+      - href: teaching.qmd
+        text: Teaching
+      - href: talks&seminars.qmd
+        text: Talks & Seminars
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: false
+    
