@@ -1,10 +1,13 @@
 project:
   type: website
   resources:
+    - google*.html
     - slides/**
 
 website:
   title: "Diego Berti"
+  site-url: "https://diegoberti.github.io"
+  description: "Academic website of Diego Berti, researcher in Mathematical Analysis, partial differential equations, dynamical systems, and mathematical physics."
   sidebar:
     style: "docked"
     search: false

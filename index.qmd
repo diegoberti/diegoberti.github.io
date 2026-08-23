@@ -7,9 +7,7 @@ about:
 
 ## Welcome to my academic website
 
-#### I am a researcher in **Mathematical Analysis**, with particular emphasis on partial differential equations, dynamical systems, and problems arising in mathematical physics.
-
-#### I am currently a researcher at the Department of Mathematics, Università di Torino, Italy.
+#### I am a researcher in **Mathematical Analysis**. I am currently a researcher at the Department of Mathematics, Università di Torino, Italy.
 
 Email: diego.berti@unito.it
 

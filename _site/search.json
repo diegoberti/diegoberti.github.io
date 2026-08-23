@@ -1,71 +1,23 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Diego Berti, PhD",
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
     "section": "",
-    "text": "Email: diego.berti@unito.it\n\n\nGoogle Scholar Scopus ResearchGate",
+    "text": "Esercitazioni di Analisi Matematica 2, Corso di Laurea Triennale in Matematica per la Finanza e l’Assicurazione, Università degli Studi di Torino, 32 hours, 4 CFU, a.a. 2025/26.\nEsercitazioni di Analisi Matematica 2, Corso di Laurea Triennale in Matematica per la Finanza e l’Assicurazione, Università degli Studi di Torino, 32 hours, 4 CFU, a.a. 2024/25.\nMatematica e Statistica, Corso di Laurea Magistrale a Ciclo Unico in Chimica e Tecnologia del Farmaco, Università degli Studi di Torino, 32 hours, 2 CFU, a.a. 2024/25.\nEsercitazioni di Analisi Matematica 2, Corso di Laurea Triennale in Matematica per la Finanza e l’Assicurazione, Università degli Studi di Torino, 32 hours, 4 CFU, a.a. 2023/24.\nMatematica e Statistica, Corso di Laurea Magistrale a Ciclo Unico in Chimica e Tecnologia del Farmaco, Università degli Studi di Torino, 32 hours, 2 CFU, a.a. 2023/24.\nElementi di Matematica (A–K), Corso di Laurea in Biotecnologie, Università degli Studi di Firenze, 24 hours, 3 CFU, a.a. 2022/23.\nEsercitazioni – Analisi Matematica A (L–Z), Corso di Laurea in Ingegneria Meccatronica, Università degli Studi di Modena e Reggio Emilia, 27 hours, 3 CFU, a.a. 2022/23.\nAnalisi Matematica II, Corso di Laurea in Ingegneria Biomedica, Università degli Studi di Firenze, 18 hours, 2 CFU, a.a. 2021/22.\nElementi di Matematica (L–Z), Corso di Laurea in Biotecnologie, Università degli Studi di Firenze, 24 hours, 3 CFU, a.a. 2021/22.\nElementi di Matematica (A–K), Corso di Laurea in Biotecnologie, Università degli Studi di Firenze, 24 hours, 3 CFU, a.a. 2021/22.\nEsercitazioni – Analisi Matematica A (L–Z), Corso di Laurea in Ingegneria Meccatronica, Università degli Studi di Modena e Reggio Emilia, 27 hours, 3 CFU, a.a. 2021/22.\nEsercitazioni – Analisi Matematica A (L–Z), Corso di Laurea in Ingegneria Meccatronica, Università degli Studi di Modena e Reggio Emilia, 27 hours, 3 CFU, a.a. 2020/21.\nCorso di Recupero OFA in Matematica, Dipartimento di Scienze e Tecnologie Agrarie, Alimentari e Forestali, Università degli Studi di Firenze, 24 hours, a.a. 2019/20.\nTutor for Matematica e Esercitazioni, Corso di Laurea in Scienze Geologiche, Università degli Studi di Firenze, a.a. 2016/17.",
     "crumbs": [
-      "Home"
+      "Teaching"
     ]
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "short CV.html",
+    "href": "short CV.html",
+    "title": "Short Academic Biography",
     "section": "",
-    "text": "About this site",
+    "text": "Academic Positions\n\nApr. 2026 – Sep. 2026. Postdoctoral Researcher, Department of Mathematics “Giuseppe Peano”, Università degli Studi di Torino, Italy. Research on the N-body problem.\nApr. 2023 – Mar. 2026. RTD-a Researcher (MAT/05), Department of Mathematics “Giuseppe Peano”, Università degli Studi di Torino, Italy.\nOct. 2022 – Mar. 2023. Postdoctoral Researcher, Department of Mathematics, Università di Pisa, Italy. Research on dispersive and Hamiltonian equations.\nOct. 2021 – Sep. 2022. Postdoctoral Researcher, Department of Mathematics and Computer Science “Ulisse Dini”, Università degli Studi di Firenze, Italy. Research on PDEs for fluid dynamics.\nJan. 2020 – Sep. 2021. Postdoctoral Researcher, Department of Sciences and Methods for Engineering, Università degli Studi di Modena e Reggio Emilia, Italy. Research on mathematical models for collective movements, crowd dynamics, and vehicular traffic.\nApr. – Dec. 2019. Postdoctoral Researcher, Severo Ochoa Excellence Programme, ICMAT–CSIC, Madrid, Spain.\n\n\n\nEducation\n\nPh.D. in Mathematics, Università degli Studi di Firenze, Italy, 2019.\nThesis: Asymptotic analysis of solutions related to the game-theoretic (p)-Laplacian.\nAdvisor: Rolando Magnanini.",
     "crumbs": [
-      "About"
+      "Academic Bio"
     ]
-  },
-  {
-    "objectID": "index.html#about-me",
-    "href": "index.html#about-me",
-    "title": "Diego Berti, PhD",
-    "section": "About me",
-    "text": "About me\nI am currently a researcher at the University of Turin, Italy.",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "index.html#contact",
-    "href": "index.html#contact",
-    "title": "Diego Berti, PhD",
-    "section": "Contact",
-    "text": "Contact\nEmail: diego.berti@unito.it\n\nAcademic Profiles\nGoogle Scholar Scopus ResearchGate",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "Publications.html",
-    "href": "Publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Short-time behavior and invariant surfaces for caloric functions with non-constant boundary values\nD. Berti, R. Magnanini, M. Marini\nSubmitted to Journal de Mathématiques Pures et Appliquées.\narXiv:2607.18784\nExpansive solutions and the boundary at infinity for the homogeneous N-body problem\nD. Berti, D. Polimeni, S. Terracini\nSubmitted to Nonlinear Analysis: Theory, Methods & Applications.\narXiv:2604.14948\nShock wavefronts for parabolic equations with sign-changing diffusivity\nD. Berti, A. Corli, L. Malaguti\nSubmitted to Advances in Nonlinear Analysis.\narXiv:2604.19595"
-  },
-  {
-    "objectID": "Publications.html#submitted-papers",
-    "href": "Publications.html#submitted-papers",
-    "title": "Publications",
-    "section": "",
-    "text": "Short-time behavior and invariant surfaces for caloric functions with non-constant boundary values\nD. Berti, R. Magnanini, M. Marini\nSubmitted to Journal de Mathématiques Pures et Appliquées.\narXiv:2607.18784\nExpansive solutions and the boundary at infinity for the homogeneous N-body problem\nD. Berti, D. Polimeni, S. Terracini\nSubmitted to Nonlinear Analysis: Theory, Methods & Applications.\narXiv:2604.14948\nShock wavefronts for parabolic equations with sign-changing diffusivity\nD. Berti, A. Corli, L. Malaguti\nSubmitted to Advances in Nonlinear Analysis.\narXiv:2604.19595"
-  },
-  {
-    "objectID": "Publications.html#published-papers",
-    "href": "Publications.html#published-papers",
-    "title": "Publications",
-    "section": "Published Papers",
-    "text": "Published Papers\n\n2026\n\nOn the regularity of solutions to the Hamilton-Jacobi equations for the N-body problem\nD. Berti, D. Polimeni, S. Terracini\nArchive for Rational Mechanics and Analysis 250, Article 75 (2026).\nDOI\nGlobal well-posedness and energy decay for hypodissipative 3D Tropical Climate Models with damping\nD. Berti, L. Bisconti, D. Catania\nProceedings of the Royal Society A 482(2336), Article 20251012 (2026).\nDOI\nSymmetric solutions of the n-body problem: a numerical study of Floquet multipliers and Morse indices\nD. Berti, G. Canneori, R. Ciccarelli, I. De Blasi, M. Introna, D. Polimeni\nAstronomy and Computing 55, Article 101085 (2026).\nDOI\n\n\n\n2025\n\nNew bounds on the high Sobolev norms of the 1d NLS solutions\nD. Berti, F. Planchon, N. Tzvetkov, N. Visciglia\nJournal of Differential Equations 430, Article 113202 (2025).\nDOI\nRemark on a blow-up criterion for the 3D Viscous Tropical Climate Model in the BMO space\nD. Berti, L. Bisconti, D. Catania\nIMA Journal of Applied Mathematics 90(4), 426–441 (2025).\nDOI\n\n\n\n2024\n\nThe role of convection in the existence of wavefronts for biased movements\nD. Berti, A. Corli, L. Malaguti\nMathematical Methods in the Applied Sciences 47, 491–515 (2024).\nDOI\nEnergy decay in the dynamics of complex bodies with spreading microstructures represented by 3D vectors\nD. Berti, L. Bisconti, P. M. Mariano\nJournal of Elasticity 155, 133–157 (2024).\nDOI\n\n\n\n2023\n\nDynamics of complex bodies with memory and vector-valued microstructure: existence and uniqueness\nD. Berti, L. Bisconti, P. M. Mariano\nPhysica D 446, Article 133683 (2023).\nDOI\nGlobal attractor for the three-dimensional Bardina Tropical Climate Model\nD. Berti, L. Bisconti, D. Catania\nApplicable Analysis 102(18), 5123–5131 (2023).\nDOI\nA regularity criterion for a 3D tropical climate model with damping\nD. Berti, L. Bisconti, D. Catania\nJournal of Mathematical Analysis and Applications 518(1), Article 126685 (2023).\nDOI\n\n\n\n2022\n\nDiffusion–convection reaction equations with sign-changing diffusivity and bistable reaction term\nD. Berti, A. Corli, L. Malaguti\nNonlinear Analysis: Real World Applications, Article 103579 (2022).\nDOI\nSmall diffusion and short-time asymptotics for Pucci operators\nD. Berti, R. Magnanini\nApplicable Analysis 101(10), 3716–3732 (2022).\nDOI\n\n\n\n2021\n\nWavefronts for degenerate diffusion-convection reaction equations with sign-changing diffusivity\nD. Berti, A. Corli, L. Malaguti\nDiscrete and Continuous Dynamical Systems 41(12), 6023–6046 (2021).\nDOI\n\n\n\n2020\n\nUniqueness and nonuniqueness of fronts for degenerate diffusion-convection-reaction equations\nD. Berti, A. Corli, L. Malaguti\nElectronic Journal of Qualitative Theory of Differential Equations 66, 1–34 (2020).\nDOI\n\n\n\n2019\n\nAsymptotics for the resolvent equation associated to the game-theoretic p-laplacian\nD. Berti, R. Magnanini\nApplicable Analysis 98, 1827–1842 (2019).\nDOI\nShort-time behaviour for game-theoretic p-caloric functions\nD. Berti, R. Magnanini\nJournal de Mathématiques Pures et Appliquées 126, 249–272 (2019).\nDOI"
-  },
-  {
-    "objectID": "Publications.html#conference-proceedings",
-    "href": "Publications.html#conference-proceedings",
-    "title": "Publications",
-    "section": "Conference Proceedings",
-    "text": "Conference Proceedings\n\nRecent results on traveling waves under sign-changing diffusivity\nD. Berti, A. Corli, L. Malaguti\nTo appear in Differential Equations and Nonlinear Models, Springer-INdAM Volume.\nWavefronts in forward-backward parabolic equations and applications to biased movements\nD. Berti, A. Corli, L. Malaguti\nIn Analysis, Applications, and Computations, Trends in Mathematics, Birkhäuser (2023).\nDOI\nShort-Time Asymptotics for Game-Theoretic p-Laplacian and Pucci Operators\nD. Berti, R. Magnanini\nIn Current Trends in Analysis, its Applications and Computation, Trends in Mathematics, Birkhäuser (2022).\nDOI"
   },
   {
     "objectID": "publications.html",
@@ -78,33 +30,23 @@
     ]
   },
   {
-    "objectID": "publications.html#submitted-papers",
-    "href": "publications.html#submitted-papers",
-    "title": "Publications",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Diego Berti, PhD",
     "section": "",
-    "text": "Short-time behavior and invariant surfaces for caloric functions with non-constant boundary values\nD. Berti, R. Magnanini, M. Marini, arXiv:2607.18784\nExpansive solutions and the boundary at infinity for the homogeneous N-body problem\nD. Berti, D. Polimeni, S. Terracini, arXiv:2604.14948\nShock wavefronts for parabolic equations with sign-changing diffusivity\nD. Berti, A. Corli, L. Malaguti, arXiv:2604.19595",
+    "text": "Email: diego.berti@unito.it\n\n\nGoogle Scholar Scopus ResearchGate",
     "crumbs": [
-      "Publications"
+      "Home"
     ]
   },
   {
-    "objectID": "publications.html#published-papers",
-    "href": "publications.html#published-papers",
-    "title": "Publications",
-    "section": "Published Papers",
-    "text": "Published Papers\n\nOn the regularity of solutions to the Hamilton-Jacobi equations for the N-body problem\nD. Berti, D. Polimeni, S. Terracini\nArchive for Rational Mechanics and Analysis 250, Article 75 (2026). DOI\nGlobal well-posedness and energy decay for hypodissipative 3D Tropical Climate Models with damping\nD. Berti, L. Bisconti, D. Catania\nProceedings of the Royal Society A 482(2336), Article 20251012 (2026). DOI\nSymmetric solutions of the n-body problem: a numerical study of Floquet multipliers and Morse indices\nD. Berti, G. Canneori, R. Ciccarelli, I. De Blasi, M. Introna, D. Polimeni\nAstronomy and Computing 55, Article 101085 (2026). DOI\nNew bounds on the high Sobolev norms of the 1d NLS solutions\nD. Berti, F. Planchon, N. Tzvetkov, N. Visciglia\nJournal of Differential Equations 430, Article 113202 (2025). DOI\nRemark on a blow-up criterion for the 3D Viscous Tropical Climate Model in the BMO space\nD. Berti, L. Bisconti, D. Catania\nIMA Journal of Applied Mathematics 90(4), 426–441 (2025). DOI\nThe role of convection in the existence of wavefronts for biased movements\nD. Berti, A. Corli, L. Malaguti\nMathematical Methods in the Applied Sciences 47, 491–515 (2024). DOI\nEnergy decay in the dynamics of complex bodies with spreading microstructures represented by 3D vectors\nD. Berti, L. Bisconti, P. M. Mariano\nJournal of Elasticity 155, 133–157 (2024). DOI\nDynamics of complex bodies with memory and vector-valued microstructure: existence and uniqueness\nD. Berti, L. Bisconti, P. M. Mariano\nPhysica D 446, Article 133683 (2023). DOI\nGlobal attractor for the three-dimensional Bardina Tropical Climate Model\nD. Berti, L. Bisconti, D. Catania\nApplicable Analysis 102(18), 5123–5131 (2023). DOI\nA regularity criterion for a 3D tropical climate model with damping\nD. Berti, L. Bisconti, D. Catania\nJournal of Mathematical Analysis and Applications 518(1), Article 126685 (2023). DOI\nDiffusion–convection reaction equations with sign-changing diffusivity and bistable reaction term\nD. Berti, A. Corli, L. Malaguti\nNonlinear Analysis: Real World Applications, Article 103579 (2022). DOI\nSmall diffusion and short-time asymptotics for Pucci operators\nD. Berti, R. Magnanini\nApplicable Analysis 101(10), 3716–3732 (2022). DOI\nWavefronts for degenerate diffusion-convection reaction equations with sign-changing diffusivity\nD. Berti, A. Corli, L. Malaguti\nDiscrete and Continuous Dynamical Systems 41(12), 6023–6046 (2021). DOI\nUniqueness and nonuniqueness of fronts for degenerate diffusion-convection-reaction equations\nD. Berti, A. Corli, L. Malaguti\nElectronic Journal of Qualitative Theory of Differential Equations 66, 1–34 (2020). DOI\nAsymptotics for the resolvent equation associated to the game-theoretic p-laplacian\nD. Berti, R. Magnanini\nApplicable Analysis 98, 1827–1842 (2019). DOI\nShort-time behaviour for game-theoretic p-caloric functions\nD. Berti, R. Magnanini\nJournal de Mathématiques Pures et Appliquées 126, 249–272 (2019). DOI",
+    "objectID": "index.html#welcome-to-my-academic-website",
+    "href": "index.html#welcome-to-my-academic-website",
+    "title": "Diego Berti, PhD",
+    "section": "",
+    "text": "Email: diego.berti@unito.it\n\n\nGoogle Scholar Scopus ResearchGate",
     "crumbs": [
-      "Publications"
-    ]
-  },
-  {
-    "objectID": "publications.html#conference-proceedings",
-    "href": "publications.html#conference-proceedings",
-    "title": "Publications",
-    "section": "Conference Proceedings",
-    "text": "Conference Proceedings\n\nRecent results on traveling waves under sign-changing diffusivity\nD. Berti, A. Corli, L. Malaguti\nTo appear in Differential Equations and Nonlinear Models, Springer-INdAM Volume.\nWavefronts in forward-backward parabolic equations and applications to biased movements\nD. Berti, A. Corli, L. Malaguti\nIn Analysis, Applications, and Computations, Trends in Mathematics, Birkhäuser (2023). DOI\nShort-Time Asymptotics for Game-Theoretic p-Laplacian and Pucci Operators\nD. Berti\nIn Current Trends in Analysis, its Applications and Computation, Trends in Mathematics, Birkhäuser (2022). DOI",
-    "crumbs": [
-      "Publications"
+      "Home"
     ]
   },
   {
@@ -141,36 +83,6 @@
     "title": "Research Interests",
     "section": "Fluid Dynamics and Mathematical Models",
     "text": "Fluid Dynamics and Mathematical Models\nI have also worked on PDE models arising in fluid dynamics and mathematical physics, including tropical climate models and the dynamics of complex bodies."
-  },
-  {
-    "objectID": "index.html#welcome-to-my-academic-website",
-    "href": "index.html#welcome-to-my-academic-website",
-    "title": "Diego Berti, PhD",
-    "section": "",
-    "text": "Email: diego.berti@unito.it\n\n\nGoogle Scholar Scopus ResearchGate",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "short CV.html",
-    "href": "short CV.html",
-    "title": "Short Academic Biography",
-    "section": "",
-    "text": "Academic Positions\n\nApr. 2026 – Sep. 2026. Postdoctoral Researcher, Department of Mathematics “Giuseppe Peano”, Università degli Studi di Torino, Italy. Research on the N-body problem.\nApr. 2023 – Mar. 2026. RTD-a Researcher (MAT/05), Department of Mathematics “Giuseppe Peano”, Università degli Studi di Torino, Italy.\nOct. 2022 – Mar. 2023. Postdoctoral Researcher, Department of Mathematics, Università di Pisa, Italy. Research on dispersive and Hamiltonian equations.\nOct. 2021 – Sep. 2022. Postdoctoral Researcher, Department of Mathematics and Computer Science “Ulisse Dini”, Università degli Studi di Firenze, Italy. Research on PDEs for fluid dynamics.\nJan. 2020 – Sep. 2021. Postdoctoral Researcher, Department of Sciences and Methods for Engineering, Università degli Studi di Modena e Reggio Emilia, Italy. Research on mathematical models for collective movements, crowd dynamics, and vehicular traffic.\nApr. – Dec. 2019. Postdoctoral Researcher, Severo Ochoa Excellence Programme, ICMAT–CSIC, Madrid, Spain.\n\n\n\nEducation\n\nPh.D. in Mathematics, Università degli Studi di Firenze, Italy, 2019.\nThesis: Asymptotic analysis of solutions related to the game-theoretic (p)-Laplacian.\nAdvisor: Rolando Magnanini.",
-    "crumbs": [
-      "Academic Bio"
-    ]
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "Esercitazioni di Analisi Matematica 2, Corso di Laurea Triennale in Matematica per la Finanza e l’Assicurazione, Università degli Studi di Torino, 32 hours, 4 CFU, a.a. 2025/26.\nEsercitazioni di Analisi Matematica 2, Corso di Laurea Triennale in Matematica per la Finanza e l’Assicurazione, Università degli Studi di Torino, 32 hours, 4 CFU, a.a. 2024/25.\nMatematica e Statistica, Corso di Laurea Magistrale a Ciclo Unico in Chimica e Tecnologia del Farmaco, Università degli Studi di Torino, 32 hours, 2 CFU, a.a. 2024/25.\nEsercitazioni di Analisi Matematica 2, Corso di Laurea Triennale in Matematica per la Finanza e l’Assicurazione, Università degli Studi di Torino, 32 hours, 4 CFU, a.a. 2023/24.\nMatematica e Statistica, Corso di Laurea Magistrale a Ciclo Unico in Chimica e Tecnologia del Farmaco, Università degli Studi di Torino, 32 hours, 2 CFU, a.a. 2023/24.\nElementi di Matematica (A–K), Corso di Laurea in Biotecnologie, Università degli Studi di Firenze, 24 hours, 3 CFU, a.a. 2022/23.\nEsercitazioni – Analisi Matematica A (L–Z), Corso di Laurea in Ingegneria Meccatronica, Università degli Studi di Modena e Reggio Emilia, 27 hours, 3 CFU, a.a. 2022/23.\nAnalisi Matematica II, Corso di Laurea in Ingegneria Biomedica, Università degli Studi di Firenze, 18 hours, 2 CFU, a.a. 2021/22.\nElementi di Matematica (L–Z), Corso di Laurea in Biotecnologie, Università degli Studi di Firenze, 24 hours, 3 CFU, a.a. 2021/22.\nElementi di Matematica (A–K), Corso di Laurea in Biotecnologie, Università degli Studi di Firenze, 24 hours, 3 CFU, a.a. 2021/22.\nEsercitazioni – Analisi Matematica A (L–Z), Corso di Laurea in Ingegneria Meccatronica, Università degli Studi di Modena e Reggio Emilia, 27 hours, 3 CFU, a.a. 2021/22.\nEsercitazioni – Analisi Matematica A (L–Z), Corso di Laurea in Ingegneria Meccatronica, Università degli Studi di Modena e Reggio Emilia, 27 hours, 3 CFU, a.a. 2020/21.\nCorso di Recupero OFA in Matematica, Dipartimento di Scienze e Tecnologie Agrarie, Alimentari e Forestali, Università degli Studi di Firenze, 24 hours, a.a. 2019/20.\nTutor for Matematica e Esercitazioni, Corso di Laurea in Scienze Geologiche, Università degli Studi di Firenze, a.a. 2016/17.",
-    "crumbs": [
-      "Teaching"
-    ]
   },
   {
     "objectID": "talks&seminars.html",
