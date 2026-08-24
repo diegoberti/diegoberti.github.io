@@ -5,6 +5,10 @@ about:
   template: jolla
 ---
 
+<div style="text-align: right; font-size: 0.8em; color: #777; margin-top: -10px;">
+Last updated: 23 August 2026
+</div>
+
 ## Welcome to my academic website
 
 #### I am a researcher in **Mathematical Analysis**. I am currently a researcher at the Department of Mathematics, Università di Torino, Italy.

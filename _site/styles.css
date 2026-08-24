@@ -187,3 +187,8 @@ a[href$=".pdf"]:hover {
     padding-right: 1rem;
   }
 }
+
+
+.talk-title {
+  color: #2C5F8A;
+}

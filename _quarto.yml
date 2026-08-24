@@ -8,20 +8,35 @@ website:
   title: "Diego Berti"
   site-url: "https://diegoberti.github.io"
   description: "Academic website of Diego Berti, researcher in Mathematical Analysis, partial differential equations, dynamical systems, and mathematical physics."
-  sidebar:
-    style: "docked"
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Publications
+        href: publications.qmd
+      - text: Academic Bio
+        href: short CV.qmd
+      - text: Teaching
+        href: teaching.qmd
+      - text: Talks & Seminars
+        href: talks&seminars.qmd
     search: false
-    contents:
-      - href: index.qmd
-        text: Home
-      - href: publications.qmd
-        text: Publications  
-      - href: short CV.qmd
-        text: Academic Bio
-      - href: teaching.qmd
-        text: Teaching
-      - href: talks&seminars.qmd
-        text: Talks & Seminars
+  
+  
+  # sidebar:
+  #   style: "docked"
+  #   search: false
+  #   contents:
+  #     - href: index.qmd
+  #       text: Home
+  #     - href: publications.qmd
+  #       text: Publications  
+  #     - href: short CV.qmd
+  #       text: Academic Bio
+  #     - href: teaching.qmd
+  #       text: Teaching
+  #     - href: talks&seminars.qmd
+  #       text: Talks & Seminars
 format:
   html:
     theme:
