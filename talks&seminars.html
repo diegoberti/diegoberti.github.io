@@ -74,6 +74,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -89,7 +118,6 @@ ul.task-list li input[type="checkbox"] {
     <span class="navbar-title">Diego Berti</span>
     </a>
   </div>
-            <div id="quarto-search" class="" title="Search"></div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
@@ -152,31 +180,31 @@ ul.task-list li input[type="checkbox"] {
 <section id="talks-and-seminars" class="level3">
 <h3 class="anchored" data-anchor-id="talks-and-seminars">Talks and Seminars</h3>
 <ul>
-<li><p><em>Shock wavefronts for parabolic equations with sign-changing diffusivity</em>, Nonlinear Differential Equations: Control, Delay, and Boundary Value Problems, AIMS 2026 Conference, Athens, Greece, July 9, 2026. <a href="slides/Berti_aims2026_s124.pdf" target="_blank">Slides</a></p></li>
-<li><p><em>Varadhan-type asymptotics for boundary data with localized support</em>, Geometry of PDEs on Manifolds and Nilpotent Lie Groups, AIMS 2026 Conference, Athens, Greece, July 6, 2026. <a href="slides/Berti_aims2026_s65.pdf" target="_blank">Slides</a></p></li>
-<li><p><em>Regularity results on 3D viscous Tropical Climate Model</em>, Evolutionary Equations Systems, AIMS 2024 Conference, New York University Abu Dhabi, Abu Dhabi, UAE, December 19, 2024. <a href="slides/Berti_aims2024.pdf" target="_blank">Slides</a></p></li>
-<li><p><em>Wavefronts in Biased Population Dynamics</em>, Diffusion Processes in Population Dynamics and Biology, Equadiff 2024, Karlstad University, Karlstad, Sweden, June 13, 2024. <a href="slides/Berti_Equadiff2024.pdf" target="_blank">Slides</a></p></li>
-<li><p><em>The role of convection in the existence of Wavefronts for population dynamics with bias in movements</em>, Giornata di Benvenuto, Dipartimento di Matematica “Giuseppe Peano”, Università degli Studi di Torino, Italy, November 9, 2023. <a href="slides/Berti_9Nov23.pdf" target="_blank">Slides</a></p></li>
-<li><p><em>A regularity criterion for a 3D tropical climate model with damping</em>, Seminari di Analisi, Dipartimento di Matematica e Informatica “Ulisse Dini”, Università degli Studi di Firenze, Italy, May 27, 2022. <a href="slides/Berti_Firenze_27May22.pdf" target="_blank">Slides</a></p></li>
-<li><p><em>Multiplicity of traveling waves to bistable problems with negative diffusivity</em>, Two Days Workshop in Nonlinear Analysis 2021, online, September 3, 2021. <a href="slides/Berti_TDWNA2021.pdf" target="_blank">Slides</a></p></li>
-<li><p><em>Wavefronts for degenerate diffusion-convection reaction equations with sign-changing diffusivity</em>, Methods of Nonlinear Analysis in Differential and Integral Equations, Rzeszów University of Technology, Poland, online, May 16, 2021. <a href="slides/MNA-2021.pdf" target="_blank">Slides</a></p></li>
-<li><p><em>Wavefronts for degenerate diffusion-convection reaction equations</em>, Seminari di Analisi @ Unife, Ferrara, Italy, online, April 29, 2021. <a href="slides/Ferrara_04_15.pdf" target="_blank">Slides</a></p></li>
-<li><p><em>Short-time asymptotics for solutions of the evolutionary game-theoretic (p)-Laplacian and Pucci operators</em>, XXI Congresso dell’Unione Matematica Italiana, Università di Pavia, Italy, September 4, 2019. <a href="slides/Pavia24Luglio2019.pdf" target="_blank">Slides</a></p></li>
-<li><p><em>Short-time asymptotics for solutions of the evolutionary game-theoretic (p)-Laplacian and Pucci operators</em>, 12th ISAAC Congress, University of Aveiro, Portugal, July 30, 2019. <a href="slides/Aveiro2019DiegoBerti.pdf" target="_blank">Slides</a></p></li>
-<li><p><em>Asymptotic analysis and symmetry results of solutions related to the game-theoretic (p)-Laplacian</em>, Joint Firenze–Tohoku Research Workshop on Nonlinear PDEs, Dipartimento di Matematica e Informatica “Ulisse Dini”, Università degli Studi di Firenze, Italy, October 22, 2018.</p></li>
-<li><p><em>Short-time behaviour for game-theoretic (p)-caloric functions</em>, 15th Aoba-yama Seminar: PDEs and Inverse Problems, Tohoku University, Sendai, Japan, February 22, 2018.</p></li>
-<li><p><em>Asymptotic behaviour of solutions for certain boundary problems for the normalized (p)-Laplacian</em>, PDEs–Calculus of Variations Seminars, Dipartimento di Matematica e Informatica “Ulisse Dini”, Università degli Studi di Firenze, Italy, April 1, 2016.</p></li>
-<li><p><em>Asymptotic behaviour of solutions for certain boundary problems for the normalized (p)-Laplacian</em>, Firenze–Sendai Seminars, Tohoku University, Sendai, Japan, January 28, 2016.</p></li>
+<li><p><span class="talk-title"><em>Shock wavefronts for parabolic equations with sign-changing diffusivity</em></span>, Nonlinear Differential Equations: Control, Delay, and Boundary Value Problems, AIMS 2026 Conference, Athens, Greece, July 9, 2026. <a href="slides/Berti_aims2026_s124.pdf" target="_blank">Slides</a></p></li>
+<li><p><span class="talk-title"><em>Varadhan-type asymptotics for boundary data with localized support</em></span>, Geometry of PDEs on Manifolds and Nilpotent Lie Groups, AIMS 2026 Conference, Athens, Greece, July 6, 2026. <a href="slides/Berti_aims2026_s65.pdf" target="_blank">Slides</a></p></li>
+<li><p><span class="talk-title"><em>Regularity results on <span class="math inline">\(3D\)</span> viscous Tropical Climate Model</em></span>, Evolutionary Equations Systems, AIMS 2024 Conference, New York University Abu Dhabi, Abu Dhabi, UAE, December 19, 2024. <a href="slides/Berti_aims2024.pdf" target="_blank">Slides</a></p></li>
+<li><p><span class="talk-title"><em>Wavefronts in Biased Population Dynamics</em></span>, Diffusion Processes in Population Dynamics and Biology, Equadiff 2024, Karlstad University, Karlstad, Sweden, June 13, 2024. <a href="slides/Berti_Equadiff2024.pdf" target="_blank">Slides</a></p></li>
+<li><p><span class="talk-title"><em>The role of convection in the existence of Wavefronts for population dynamics with bias in movements</em></span>, Giornata di Benvenuto, Dipartimento di Matematica “Giuseppe Peano”, Università degli Studi di Torino, Italy, November 9, 2023. <a href="slides/Berti_9Nov23.pdf" target="_blank">Slides</a></p></li>
+<li><p><span class="talk-title"><em>A regularity criterion for a <span class="math inline">\(3D\)</span> tropical climate model with damping</em></span>, Seminari di Analisi, Dipartimento di Matematica e Informatica “Ulisse Dini”, Università degli Studi di Firenze, Italy, May 27, 2022. <a href="slides/Berti_Firenze_27May22.pdf" target="_blank">Slides</a></p></li>
+<li><p><span class="talk-title"><em>Multiplicity of traveling waves to bistable problems with negative diffusivity</em></span>, Two Days Workshop in Nonlinear Analysis 2021, online, September 3, 2021. <a href="slides/Berti_TDWNA2021.pdf" target="_blank">Slides</a></p></li>
+<li><p><span class="talk-title"><em>Wavefronts for degenerate diffusion-convection reaction equations with sign-changing diffusivity</em></span>, Methods of Nonlinear Analysis in Differential and Integral Equations, Rzeszów University of Technology, Poland, online, May 16, 2021. <a href="slides/MNA-2021.pdf" target="_blank">Slides</a></p></li>
+<li><p><span class="talk-title"><em>Wavefronts for degenerate diffusion-convection reaction equations</em></span>, Seminari di Analisi @ Unife, Ferrara, Italy, online, April 29, 2021. <a href="slides/Ferrara_04_15.pdf" target="_blank">Slides</a></p></li>
+<li><p><span class="talk-title"><em>Short-time asymptotics for solutions of the evolutionary game-theoretic <span class="math inline">\(p\)</span>-Laplacian and Pucci operators</em></span>, XXI Congresso dell’Unione Matematica Italiana, Università di Pavia, Italy, September 4, 2019. <a href="slides/Pavia24Luglio2019.pdf" target="_blank">Slides</a></p></li>
+<li><p><span class="talk-title"><em>Short-time asymptotics for solutions of the evolutionary game-theoretic <span class="math inline">\(p\)</span>-Laplacian and Pucci operators</em></span>, 12th ISAAC Congress, University of Aveiro, Portugal, July 30, 2019. <a href="slides/Aveiro2019DiegoBerti.pdf" target="_blank">Slides</a></p></li>
+<li><p><span class="talk-title"><em>Asymptotic analysis and symmetry results of solutions related to the game-theoretic <span class="math inline">\(p\)</span>-Laplacian</em></span>, Joint Firenze–Tohoku Research Workshop on Nonlinear PDEs, Dipartimento di Matematica e Informatica “Ulisse Dini”, Università degli Studi di Firenze, Italy, October 22, 2018.</p></li>
+<li><p><span class="talk-title"><em>Short-time behaviour for game-theoretic <span class="math inline">\(p\)</span>-caloric functions</em></span>, 15th Aoba-yama Seminar: PDEs and Inverse Problems, Tohoku University, Sendai, Japan, February 22, 2018.</p></li>
+<li><p><span class="talk-title"><em>Asymptotic behaviour of solutions for certain boundary problems for the normalized <span class="math inline">\(p\)</span>-Laplacian</em></span>, PDEs–Calculus of Variations Seminars, Dipartimento di Matematica e Informatica “Ulisse Dini”, Università degli Studi di Firenze, Italy, April 1, 2016.</p></li>
+<li><p><span class="talk-title"><em>Asymptotic behaviour of solutions for certain boundary problems for the normalized <span class="math inline">\(p\)</span>-Laplacian</em></span>, Firenze–Sendai Seminars, Tohoku University, Sendai, Japan, January 28, 2016.</p></li>
 </ul>
 </section>
 <section id="poster-presentations" class="level3">
 <h3 class="anchored" data-anchor-id="poster-presentations">Poster Presentations</h3>
 <ul>
-<li><p><em>On Hamilton-Jacobi equations for the N-body problem</em>, Modeling, Control and Games through Partial Differential Equations, Ferrara, Italy, September 3, 2025. <a href="slides/PosterSettembre2025_v4.pdf" target="_blank">Poster</a></p></li>
-<li><p><em>On regularized three-dimensional tropical climate models</em>, International Workshop on Nonlinear Differential Problems, Giardini Naxos (Messina), Italy, September 21, 2022. <a href="slides/PosterSettembre2022-a0.pdf" target="_blank">Poster</a></p></li>
-<li><p><em>Asymptotic analysis of solutions of boundary problems for the game-theoretic (p)-Laplacian</em>, Sobolev Spaces and Partial Differential Equations, in honour of Vladimir Maz’ya on the occasion of his 80th birthday, Accademia dei Lincei, Palazzo Corsini, Rome, Italy, May 17, 2018. <a href="slides/PosterRoma2018.pdf" target="_blank">Poster</a></p></li>
-<li><p><em>Short-time behaviour for game-theoretic (p)-caloric functions</em>, Geometry of PDE’s and Related Problems, Cetraro (Cosenza), Italy, June 22, 2017.</p></li>
-<li><p><em>Asymptotic behaviour of solutions for certain boundary problems for the normalized (p)-Laplacian</em>, Geometric Aspects of PDE’s and Functional Inequalities, Palazzone di Cortona, Cortona (Arezzo), Italy, April 29, 2016.</p></li>
+<li><p><span class="talk-title"><em>On Hamilton-Jacobi equations for the <span class="math inline">\(N\)</span>-body problem</em></span>, Modeling, Control and Games through Partial Differential Equations, Ferrara, Italy, September 3, 2025. <a href="slides/PosterSettembre2025_v4.pdf" target="_blank">Poster</a></p></li>
+<li><p><span class="talk-title"><em>On regularized three-dimensional tropical climate models</em></span>, International Workshop on Nonlinear Differential Problems, Giardini Naxos (Messina), Italy, September 21, 2022. <a href="slides/PosterSettembre2022-a0.pdf" target="_blank">Poster</a></p></li>
+<li><p><span class="talk-title"><em>Asymptotic analysis of solutions of boundary problems for the game-theoretic <span class="math inline">\(p\)</span>-Laplacian</em></span>, Sobolev Spaces and Partial Differential Equations, in honour of Vladimir Maz’ya on the occasion of his 80th birthday, Accademia dei Lincei, Palazzo Corsini, Rome, Italy, May 17, 2018. <a href="slides/PosterRoma2018.pdf" target="_blank">Poster</a></p></li>
+<li><p><span class="talk-title"><em>Short-time behaviour for game-theoretic <span class="math inline">\(p\)</span>-caloric functions</em></span>, Geometry of PDE’s and Related Problems, Cetraro (Cosenza), Italy, June 22, 2017.</p></li>
+<li><p><span class="talk-title"><em>Asymptotic behaviour of solutions for certain boundary problems for the normalized <span class="math inline">\(p\)</span>-Laplacian</em></span>, Geometric Aspects of PDE’s and Functional Inequalities, Palazzone di Cortona, Cortona (Arezzo), Italy, April 29, 2016.</p></li>
 </ul>
 
 
