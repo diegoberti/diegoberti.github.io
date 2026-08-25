@@ -87,14 +87,14 @@ title: "Publications and Preprints"
 
 ### Proceedings
 
-* Recent results on traveling waves under sign-changing diffusivity,   
+20. Recent results on traveling waves under sign-changing diffusivity,   
    D. Berti, A. Corli, L. Malaguti,
    To appear in *Differential Equations and Nonlinear Models*, Springer-INdAM Volume.
 
-* [Wavefronts in forward-backward parabolic equations and applications to biased movements](https://doi.org/10.1007/978-3-031-36375-7_2){target="_blank"},   
+21. [Wavefronts in forward-backward parabolic equations and applications to biased movements](https://doi.org/10.1007/978-3-031-36375-7_2){target="_blank"},   
    D. Berti, A. Corli, L. Malaguti,
    In *Analysis, Applications, and Computations*, Trends in Mathematics, Birkhäuser (2023). 
 
-* [Short-Time Asymptotics for Game-Theoretic p-Laplacian and Pucci Operators](https://doi.org/10.1007/978-3-030-87502-2_42){target="_blank"},   
+22. [Short-Time Asymptotics for Game-Theoretic p-Laplacian and Pucci Operators](https://doi.org/10.1007/978-3-030-87502-2_42){target="_blank"},   
    D. Berti,
    In *Current Trends in Analysis, its Applications and Computation*, Trends in Mathematics, Birkhäuser (2022). 
