@@ -2,11 +2,10 @@
 title: "Short Academic Biography"
 ---
 
-<!--
+
 ::: {.text-center}
 ![](images/map_academic_bio.png){width="65%"}
 :::
--->
 
 ### Academic Positions
 
