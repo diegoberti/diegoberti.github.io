@@ -2,6 +2,12 @@
 title: "Short Academic Biography"
 ---
 
+<!--
+::: {.text-center}
+![](images/map_academic_bio.png){width="65%"}
+:::
+-->
+
 ### Academic Positions
 
 - **Apr. 2026 – Sep. 2026**. Postdoctoral Researcher, Department of Mathematics "Giuseppe Peano", Università degli Studi di Torino, Italy. Research on the N-body problem.

@@ -2,6 +2,11 @@
 title: "Talks and Seminars"
 ---
 
+::: {.text-center}
+![](images/aims2026_conf.jpg){width="65%"}
+:::
+
+
 ### Talks and Seminars
 
 - [*Shock wavefronts for parabolic equations with sign-changing diffusivity*]{.talk-title}, Nonlinear Differential Equations: Control, Delay, and Boundary Value Problems, AIMS 2026 Conference, Athens, Greece, July 9, 2026. [Slides](slides/Berti_aims2026_s124.pdf){target="_blank"}
